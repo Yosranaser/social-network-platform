@@ -6,3 +6,5 @@ messages to each other.
 files.
 **at first user sign up and next login in with the same username and the same password if the password was wrong the user are allowed to enter wrong password three so program will send him a ckeck code to mail which let him login in
 **after logining in user can send message to anyone who has account and can create a post which will apear to everyone in the timeline(home) 
+**after creating a post or sending a message it will apear to everyone in the notifications
+
